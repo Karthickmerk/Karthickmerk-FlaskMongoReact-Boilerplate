@@ -1,0 +1,33 @@
+# Python files
+*.pyc
+__pycache__
+
+# Virtual environments
+venv
+env/
+.venv/
+.env
+
+# Compiled files
+*.so
+
+# Packages
+*.egg
+*.egg-info
+build/
+
+# Documentation
+docs/
+.buildinfo
+
+# Test files
+tests/
+
+# IDE files
+*.pydevproject
+.vscode/
+
+# System files
+.DS_Store
+.gitignore
+.dockerignore

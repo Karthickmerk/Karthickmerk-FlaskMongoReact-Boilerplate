@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+
+# Package files
+package-lock.json
+
+# Webpack configuration
+webpack.config.js
+
+# Babel configuration
+babel.config.js
+
+# Jest configuration
+jest.config.js
+
+# IDE files
+.vscode/
+
+# System files
+.DS_Store
+.gitignore
+.dockerignore
